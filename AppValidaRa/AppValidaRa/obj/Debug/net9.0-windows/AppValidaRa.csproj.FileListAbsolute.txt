@@ -1,0 +1,17 @@
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\bin\Debug\net9.0-windows\AppValidaRa.exe
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\bin\Debug\net9.0-windows\AppValidaRa.deps.json
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\bin\Debug\net9.0-windows\AppValidaRa.runtimeconfig.json
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\bin\Debug\net9.0-windows\AppValidaRa.dll
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\bin\Debug\net9.0-windows\AppValidaRa.pdb
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\obj\Debug\net9.0-windows\AppValidaRa.Properties.Resources.resources
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\obj\Debug\net9.0-windows\AppValidaRa.csproj.GenerateResource.cache
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\obj\Debug\net9.0-windows\AppValidaRa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\obj\Debug\net9.0-windows\AppValidaRa.AssemblyInfoInputs.cache
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\obj\Debug\net9.0-windows\AppValidaRa.AssemblyInfo.cs
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\obj\Debug\net9.0-windows\AppValidaRa.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\obj\Debug\net9.0-windows\AppValidaRa.dll
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\obj\Debug\net9.0-windows\refint\AppValidaRa.dll
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\obj\Debug\net9.0-windows\AppValidaRa.pdb
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\obj\Debug\net9.0-windows\AppValidaRa.genruntimeconfig.cache
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\obj\Debug\net9.0-windows\ref\AppValidaRa.dll
+C:\Users\Gabe\Desktop\AppBiblioteca\AppValidaRa\AppValidaRa\obj\Debug\net9.0-windows\AppValidaRa.FormMenu.resources
